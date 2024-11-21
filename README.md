@@ -5,7 +5,7 @@ Gliomas are a type of brain tumor classified into low-grade gliomas (TCGA-LGG) a
 The model aims to assist in glioma classification, contributing to medical research and facilitating early detection and effective treatment planning.
 
 ### Dataset
-Source: Glioma Grading Dataset
+Source: Glioma Grading Dataset - https://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset
 
 Classes:
 * TCGA-LGG (Low-Grade Glioma)
